@@ -13,7 +13,7 @@ The database model supports:
  * Optional accommodation for selected bookings
  * Student questions related to courses
 # Deliverables
- * Entity Relationship Diagram (ERD)
- * Documented design assumptions
+ * ['Entity Relationship Diagram (ERD)'](ERD training organisation.pdf)
+ * ['Documented design assumptions'](assumptions.pdf)
 # Notes
 This project was originally developed as part of an academic assessment. The ERD and assumptions are presented in their original form without modification.
